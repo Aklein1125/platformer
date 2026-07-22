@@ -14,7 +14,9 @@
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "ForcedPrefabProjectReferences":[],
+  "ForcedPrefabProjectReferences":[
+    {"link":"io.gamemaker.gm_filter_distort-1.0.0","name":"io.gamemaker.gm_filter_distort-1.0.0","path":"io.gamemaker.gm_filter_distort-1.0.0.yyp",},
+  ],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -28,6 +30,7 @@
     {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},},
