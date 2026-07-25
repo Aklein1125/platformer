@@ -16,6 +16,7 @@
   ],
   "ForcedPrefabProjectReferences":[
     {"link":"io.gamemaker.gm_filter_distort-1.0.0","name":"io.gamemaker.gm_filter_distort-1.0.0","path":"io.gamemaker.gm_filter_distort-1.0.0.yyp",},
+    {"link":"io.gamemaker.gm_filter_linear_blur-1.0.0","name":"io.gamemaker.gm_filter_linear_blur-1.0.0","path":"io.gamemaker.gm_filter_linear_blur-1.0.0.yyp",},
   ],
   "IncludedFiles":[],
   "isEcma":false,
@@ -31,7 +32,9 @@
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"RoomFinish","path":"rooms/RoomFinish/RoomFinish.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"sFinish","path":"sprites/sFinish/sFinish.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},},
@@ -42,6 +45,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"RoomFinish","path":"rooms/RoomFinish/RoomFinish.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
